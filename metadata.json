@@ -1,0 +1,6 @@
+{
+  "name": "Chercher Timetable",
+  "description": "Chercher Secondary School Grade 12 Smart Timetable for sections 12A–12K with bilingual Afaan Oromoo/English support, teacher directory, and search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

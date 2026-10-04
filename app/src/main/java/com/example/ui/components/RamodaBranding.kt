@@ -135,7 +135,7 @@ fun RamodaSplashScreen(
             Spacer(modifier = Modifier.height(4.dp))
 
             Text(
-                text = "Grade 12 Smart Timetable",
+                text = "Smart Timetable",
                 style = MaterialTheme.typography.titleMedium,
                 fontWeight = FontWeight.SemiBold,
                 color = CyanAccent,

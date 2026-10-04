@@ -72,13 +72,13 @@ fun ChercherTopBar(
 
                     Column {
                         Text(
-                            text = "Chercher Secondary",
+                            text = "Chercher Secondary School",
                             style = MaterialTheme.typography.titleMedium,
                             fontWeight = FontWeight.Bold,
                             color = MaterialTheme.colorScheme.onSurface
                         )
                         Text(
-                            text = "Grade 12 Smart Timetable",
+                            text = "Smart Timetable",
                             style = MaterialTheme.typography.bodySmall,
                             color = MaterialTheme.colorScheme.primary,
                             fontSize = 11.sp

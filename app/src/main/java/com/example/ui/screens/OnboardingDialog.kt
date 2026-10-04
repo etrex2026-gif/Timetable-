@@ -104,7 +104,7 @@ fun OnboardingDialog(
                                 color = Color.White
                             )
                             Text(
-                                text = "Grade 12 Smart Timetable • Setup",
+                                text = "Smart Timetable • Setup",
                                 style = MaterialTheme.typography.bodySmall,
                                 fontSize = 11.sp,
                                 color = Color.White.copy(alpha = 0.9f)

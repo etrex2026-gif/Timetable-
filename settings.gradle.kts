@@ -22,6 +22,6 @@ dependencyResolutionManagement {
   }
 }
 
-rootProject.name = "Chercher Timetable"
+rootProject.name = "Smart Timetable"
 
 include(":app")

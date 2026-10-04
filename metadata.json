@@ -1,6 +1,6 @@
 {
-  "name": "Chercher Timetable",
-  "description": "Chercher Secondary School Grade 12 Smart Timetable for sections 12A–12K with bilingual Afaan Oromoo/English support, teacher directory, and search.",
+  "name": "Smart Timetable",
+  "description": "Smart Timetable for Chercher Secondary School Grade 12 (sections 12A–12K) developed by Ramoda Technologies.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
